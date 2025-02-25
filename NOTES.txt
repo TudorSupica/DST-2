@@ -1,0 +1,3 @@
+	If you want to use the TMF you need to figure out the wire routing for the 3.6' Jack ports.
+
+	The wires that go to and from the footswitch might affect the impedance of the first stage, take a look into that. 
