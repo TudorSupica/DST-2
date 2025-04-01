@@ -13,5 +13,5 @@
   Yappa yappa schematic yappa yappa type shi
 
   
-  # [The Schematic](https://github.com/TudorSupica/DST-2/blob/main/PCB/)
+  # [The PCB](https://github.com/TudorSupica/DST-2/blob/main/PCB/)
   Yappa yappa PCB yappa yappa type shi
