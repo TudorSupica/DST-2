@@ -31,7 +31,7 @@
    And finally the capacitor *C5* is used to decouple the signal before it reaches the next stage.
 
    ### The variable gain stage
-   The variable gain stage is made up of a few components, mainly a double op-amp DIP-8 IC (*even tho the TL072 or the LM358 work fine, I'd strongly recommend some better op-amps such as the OPA2134*) with some support components such as resistors and capacitors.
+   The variable gain stage is made up of a few components, mainly a double op-amp SOIC-8 IC (*even tho the TL072 or the LM358 work fine, I'd strongly recommend some better op-amps such as the OPA2134*) with some support components such as resistors and capacitors.
   
    # [The PCB](https://github.com/TudorSupica/DST-2/blob/main/PCB/)
   Yappa yappa PCB yappa yappa type shi
