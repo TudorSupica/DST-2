@@ -12,7 +12,7 @@
   # [The Schematic](https://github.com/TudorSupica/DST-2/blob/main/Schematic/)
    The schematic is made up of a few blocks: a buffer stage, initial amplifying stage, a variable gain stage, clipping stage, filtering stage and a final buffer stage. 
 
-![Schematic](https://github.com/TudorSupica/DST-2/blob/main/Schematic/Schematic.JPG)
+![Schematic](https://github.com/TudorSupica/DST-2/blob/main/Schematic/DST-2_schematic.JPG)
 
    ### The buffer stage 
    The buffer stage is a voltage follower made up of the transistor *Q1* and *R1*, *R2* and *C1*, *C2*.
