@@ -3,7 +3,7 @@
 
    The DST-2 is the second version of the DST distortion pedal series. It's main goal was to make the pedal a whole lot modular and easier to debug, since I want all the future pedals to be compatible with one another. 
   
-  The modularity comes from the use of JST connectors and the use of modules like the ![TMC-1](https://github.com/TudorSupica/TMC-1) and the [TMF](https://github.com/TudorSupica/TMF). These modules aim to standardise the pedal-making process and to make all the future pedals compatible.
+  The modularity comes from the use of JST connectors and the use of modules like the [TMC-1](https://github.com/TudorSupica/TMC-1) and the [TMF](https://github.com/TudorSupica/TMF). These modules aim to standardise the pedal-making process and to make all the future pedals compatible.
 
   The debugging aspect of the board comes from the use of test pads labled accordingly, so that when eventually a problem arises, they can be debugged and fixed. The test pads I added mainly target features like power supply and signal line. I also connected the four screw holes found in the corners of the board to GND, so that when debigging I won't have to actively look for a GND test point.
 
